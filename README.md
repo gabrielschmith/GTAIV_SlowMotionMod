@@ -1,6 +1,6 @@
 # GTAIV_SlowMotionMod
 
-*This is a simple Slow Motion mod to GTA IV make with C#.
+* This is a simple Slow Motion mod to GTA IV make with C#.
 
 ## Install
 * To install the Mod Slow Motion you need to build the project, 
